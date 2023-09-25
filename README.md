@@ -1,7 +1,7 @@
 # PostTest_1
 Ana Alfiya_2399016102
 
-[image](https://github.com/Anaalfiya/PostTest_1/assets/144817479/4806c2db-f09c-4eae-8ad8-e780d36e573b)
+![image](https://github.com/Anaalfiya/PostTest_1/assets/144817479/4806c2db-f09c-4eae-8ad8-e780d36e573b)
 
 ![image](https://github.com/Anaalfiya/PostTest_1/assets/144817479/ac5bc8eb-105e-4cfe-99d7-7cefaebe5703)
 
